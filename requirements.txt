@@ -1,0 +1,6 @@
+streamlit
+Orange3
+PyQt5
+pandas
+numpy
+scikit-learn
