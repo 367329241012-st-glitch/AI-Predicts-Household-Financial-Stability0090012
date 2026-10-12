@@ -143,7 +143,7 @@ def get_class_info(val_str):
 
 
 # Header
-st.markdown("<h1 class='main-title'>💰 แบบประเมินระดับความมั่นคงทางการเงินส่วนบุคคล</h1>", unsafe_allow_html=True)
+st.markdown("<h1 class='main-title'>💰 ต้นแบบประเมินระดับความมั่นคงทางการเงินส่วนบุคคล</h1>", unsafe_allow_html=True)
 st.markdown("<p class='sub-title'>กรอกเฉพาะตัวเลขดิบ 16 รายการ ระบบคำนวณอัตราส่วนทางการเงินให้เอง · แบบจำลองสอนจากข้อมูลสังเคราะห์ ใช้เพื่อการศึกษา</p>", unsafe_allow_html=True)
 
 # ฟอร์มกรอกข้อมูลแบ่ง 3 คอลัมน์
